@@ -12,11 +12,11 @@ class WebHttp(BaseHTTPRequestHandler):
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Simple Python Server</title>
+            <title>Python Server</title>
         </head>
         <body>
-            <h1>Hello from Python!</h1>
-            <p>This is a simple Python server serving HTML content.</p>
+            <h1>Servidor web python</h1>
+            <p>Servidor con python y html sin utilizar frameworks</p>
         </body>
         </html>
         """
